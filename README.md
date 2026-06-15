@@ -53,7 +53,7 @@ This project focuses on analyzing customer churn and predicting potential churne
 
 ### Classification Report
 The model shows good performance in predicting non-churn customers, while churn prediction can be further improved.
-![](Images/classification_report.png)
+![Classification Report](Images/classification_report.png)
 
 ### Insights
 - Model performs well on majority class (non-churn)
