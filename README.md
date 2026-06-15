@@ -3,7 +3,7 @@
 ##  Overview
 This project focuses on analyzing customer churn and predicting potential churners using SQL Server, Power BI, and Machine Learning.
 
-## 🧰 Tech Stack
+## Tech Stack
 - SQL Server → ETL & Data Cleaning
 - Power BI → Data Visualization & Dashboard
 - Python → Machine Learning (Random Forest)
@@ -17,7 +17,7 @@ This project focuses on analyzing customer churn and predicting potential churne
 6. Predicting Customer Churn
 
 ##  Dashboard Preview
-![Images](images/Summary.png)
+![Summary](images/Summary.png)
 ![Images](images/prediction.png)
 
 ##  Machine Learning Model
