@@ -17,8 +17,8 @@ This project focuses on analyzing customer churn and predicting potential churne
 6. Predicting Customer Churn
 
 ##  Dashboard Preview
-![Summary](images/Summary.png)
-![Images](images/prediction.png)
+![Summary](Images/Summary.png)
+![Images](Images/prediction.png)
 
 ##  Machine Learning Model
 - Algorithm: Random Forest
