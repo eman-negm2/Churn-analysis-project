@@ -49,7 +49,7 @@ This project focuses on analyzing customer churn and predicting potential churne
 - F1-Score (Churn): 71%
 
 ### Confusion Matrix
-![Confusion Matrix](Images/confusion_matrix.png)
+![Images](Images/Confusion Matrix.png)
 
 ### Classification Report
 The model shows good performance in predicting non-churn customers, while churn prediction can be further improved.
